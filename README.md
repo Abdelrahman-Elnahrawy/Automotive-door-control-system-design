@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdelrahman-Elnahraway
 - 👀 I’m interested in Embedded systems
 - 🌱 I’m currently studying computer organization
-- 💞️ I’m looking to collaborate on anything will make me learn
+- 💞️ I’m looking to collaborate on anything that can make me learn
 - 📫 abd0elnahrawy@gmail.com
 
 <!---
